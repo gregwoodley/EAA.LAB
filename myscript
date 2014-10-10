@@ -1,0 +1,4 @@
+#!/bin/bash# First Script
+
+
+cat/proc/cpuinfo | grep processor | wc -1
